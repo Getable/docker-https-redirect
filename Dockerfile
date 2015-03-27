@@ -1,6 +1,6 @@
 # https-redirect
 
-FROM dockerfile/nodejs
+FROM node:0.10
 MAINTAINER Joey Baker <joey@getable.com>
 
 # Install upgrade node and npm
